@@ -216,8 +216,6 @@ FROM cte1
 WHERE rank_order IN (1, 2, 3)
 ORDER BY division, rank_order ASC;
 ```
-## Presentation 
-
 
 ## Power BI Report
 [Click here to explore the report](https://app.powerbi.com/view?r=eyJrIjoiNDNkZDczNDMtZTIwNC00MGFjLTg5YWEtZDdhNzM1YTRmMjE1IiwidCI6ImRkY2EyNGM4LTJkNDUtNGQwNS1hZWY1LWMyYTZhMTFhNzdmYSJ9&pageName=6e276cc4ba3db0cece31)
